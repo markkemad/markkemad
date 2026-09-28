@@ -34,9 +34,7 @@
 ### <img src="https://api.iconify.design/lucide:cpu.svg?color=%2338bdf8" width="20" height="20" align="top" /> Core Toolchain & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,kubernetes,docker,terraform,ansible,jenkins,githubactions,linux,bash,python&perline=6&theme=dark" alt="Skill Icons" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Huawei%20Cloud-C7000B?style=for-the-badge&logo=huawei&logoColor=white" alt="Huawei Cloud" />
+  <img src="https://skillicons.dev/icons?i=azure,huawei,aws,gcp,kubernetes,docker,terraform,ansible,jenkins,githubactions,linux,bash,python&perline=7&theme=dark" alt="Skill Icons" />
 </div>
 
 <br/>
