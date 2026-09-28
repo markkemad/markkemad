@@ -34,9 +34,9 @@
 ### <img src="https://api.iconify.design/lucide:cpu.svg?color=%2338bdf8" width="20" height="20" align="top" /> Core Toolchain & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=azure&theme=dark" alt="Azure" /><img src="https://raw.githubusercontent.com/markkemad/markkemad/main/assets/huaweicloud.svg" width="48" height="48" alt="Huawei Cloud" /><img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,terraform&theme=dark" alt="Cloud & Compute" />
+  <img src="https://skillicons.dev/icons?i=azure&theme=dark" alt="Azure" /><img src="https://raw.githubusercontent.com/markkemad/markkemad/main/assets/huaweicloud.svg" width="48" height="48" alt="Huawei Cloud" /><img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker&theme=dark" alt="Cloud & Compute" />
   <br />
-  <img src="https://skillicons.dev/icons?i=ansible,jenkins,githubactions,linux,bash,python&theme=dark" alt="DevOps & Toolchain" />
+  <img src="https://skillicons.dev/icons?i=terraform,ansible,jenkins,githubactions,linux,bash,python&theme=dark" alt="DevOps & Toolchain" />
 </div>
 
 <br/>
