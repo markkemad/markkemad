@@ -34,7 +34,7 @@
 ### <img src="https://api.iconify.design/lucide:cpu.svg?color=%2338bdf8" width="20" height="20" align="top" /> Core Toolchain & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=azure&theme=dark" alt="Azure" /><img src="https://raw.githubusercontent.com/markkemad/markkemad/main/assets/huaweicloud.svg" width="48" height="48" alt="Huawei Cloud" /><img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker&theme=dark" alt="Cloud & Compute" />
+  <img src="https://skillicons.dev/icons?i=azure&theme=dark" alt="Azure" /><img src="https://raw.githubusercontent.com/markkemad/markkemad/main/assets/huaweicloud.svg" width="48" height="48" alt="Huawei Cloud" /><img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,cloudflare&theme=dark" alt="Cloud & Compute" />
   <br />
   <img src="https://skillicons.dev/icons?i=terraform,ansible,jenkins,githubactions,linux,bash,python&theme=dark" alt="DevOps & Toolchain" />
 </div>
@@ -47,7 +47,7 @@
 
 | System Domain | Tooling & Implementation | Production Standards |
 | :--- | :--- | :--- |
-| **<img src="https://api.iconify.design/lucide:cloud.svg?color=%2338bdf8" width="16" height="16" align="top" /> Cloud & Compute** | `Azure` `Huawei Cloud` `AWS` `GCP` `Docker` `K8s` | Multi-AZ High Availability, Container Isolation |
+| **<img src="https://api.iconify.design/lucide:cloud.svg?color=%2338bdf8" width="16" height="16" align="top" /> Cloud & Compute** | `Azure` `Huawei Cloud` `AWS` `GCP` `Cloudflare` `Docker` `K8s` | Multi-AZ High Availability, Container Isolation |
 | **<img src="https://api.iconify.design/lucide:terminal.svg?color=%2338bdf8" width="16" height="16" align="top" /> IaC & Orchestration** | `Terraform` `Ansible` `GitOps` | Immutable Infrastructure, Automated Drift Detection |
 | **<img src="https://api.iconify.design/lucide:git-pull-request.svg?color=%2338bdf8" width="16" height="16" align="top" /> Continuous Delivery** | `GitHub Actions` `Jenkins` `Bash` `Python` | Zero-Downtime Releases, Automated CVE Scans |
 | **<img src="https://api.iconify.design/lucide:activity.svg?color=%2338bdf8" width="16" height="16" align="top" /> Network & Observability** | `IPsec / VPN` `BGP` `Prometheus` `Grafana` | Low-Latency Routing, Real-Time SLA Alerting |
