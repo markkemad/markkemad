@@ -22,7 +22,7 @@
   <a href="https://markkemad.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=googlechrome&logoColor=38BDF8" alt="Portfolio" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:mark10.emad16@gmail.com">
     <img src="https://img.shields.io/badge/Direct%20Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -34,7 +34,7 @@
 ### <img src="https://api.iconify.design/lucide:cpu.svg?color=%2338bdf8" width="20" height="20" align="top" /> Core Toolchain & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,terraform,ansible,jenkins,githubactions,linux,ubuntu,bash,python&perline=6&theme=dark" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,kubernetes,docker,terraform,ansible,jenkins,githubactions,linux,bash,python&perline=6&theme=dark" alt="Skill Icons" />
 </div>
 
 <br/>
@@ -45,7 +45,7 @@
 
 | System Domain | Tooling & Implementation | Production Standards |
 | :--- | :--- | :--- |
-| **<img src="https://api.iconify.design/lucide:cloud.svg?color=%2338bdf8" width="16" height="16" align="top" /> Cloud & Compute** | `AWS` `GCP` `Huawei Cloud` `Docker` `K8s` | Multi-AZ High Availability, Container Isolation |
+| **<img src="https://api.iconify.design/lucide:cloud.svg?color=%2338bdf8" width="16" height="16" align="top" /> Cloud & Compute** | `Azure` `Huawei Cloud` `AWS` `GCP` `Docker` `K8s` | Multi-AZ High Availability, Container Isolation |
 | **<img src="https://api.iconify.design/lucide:terminal.svg?color=%2338bdf8" width="16" height="16" align="top" /> IaC & Orchestration** | `Terraform` `Ansible` `GitOps` | Immutable Infrastructure, Automated Drift Detection |
 | **<img src="https://api.iconify.design/lucide:git-pull-request.svg?color=%2338bdf8" width="16" height="16" align="top" /> Continuous Delivery** | `GitHub Actions` `Jenkins` `Bash` `Python` | Zero-Downtime Releases, Automated CVE Scans |
 | **<img src="https://api.iconify.design/lucide:activity.svg?color=%2338bdf8" width="16" height="16" align="top" /> Network & Observability** | `IPsec / VPN` `BGP` `Prometheus` `Grafana` | Low-Latency Routing, Real-Time SLA Alerting |
@@ -62,9 +62,39 @@
 
 ### <img src="https://api.iconify.design/lucide:folder-git-2.svg?color=%2338bdf8" width="20" height="20" align="top" /> Active Repositories & Engineering Initiatives
 
-* **GitOps Kubernetes Deployment:** Multi-node cluster delivery with Helm charts and automated synchronization.
-* **Automated Baseline Hardening:** Reusable Ansible roles enforcing CIS benchmarks across Ubuntu and RHEL fleets.
-* **Multi-Cloud Disaster Recovery:** Cross-region topology validation and automated failover pipelines.
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%" align="center" valign="top">
+        <img src="https://api.iconify.design/lucide:git-commit.svg?color=%2338bdf8" width="30" height="30" />
+        <br />
+        <b>GitOps K8s Deployment</b><br />
+        <sub>Multi-node cluster delivery with Helm charts & automated sync.</sub>
+      </td>
+      <td width="33%" align="center" valign="top">
+        <img src="https://api.iconify.design/lucide:shield-check.svg?color=%2338bdf8" width="30" height="30" />
+        <br />
+        <b>Automated Hardening</b><br />
+        <sub>Reusable Ansible roles enforcing CIS benchmarks across fleets.</sub>
+      </td>
+      <td width="33%" align="center" valign="top">
+        <img src="https://api.iconify.design/lucide:server-crash.svg?color=%2338bdf8" width="30" height="30" />
+        <br />
+        <b>Multi-Cloud DR</b><br />
+        <sub>Cross-region topology validation & automated failover pipelines.</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### <img src="https://api.iconify.design/lucide:bar-chart-2.svg?color=%2338bdf8" width="20" height="20" align="top" /> GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=markkemad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" height="165" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=markkemad&theme=tokyonight&hide_border=true&background=00000000&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" height="165" alt="GitHub Streak" />
+</div>
 
 <br/>
 
