@@ -1,153 +1,82 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,35&height=180&section=header&text=Mark%20Emad&fontSize=42&fontAlignY=38&desc=Cloud%20Infrastructure%20%26%20Operations%20Engineer&descAlignY=58&descSize=18&fontColor=ffffff" width="100%" />
+  <!-- 1. DYNAMIC SVG HEADER BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,35&height=180&section=header&text=Mark%20Emad&fontSize=42&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20Infrastructure%20%26%20Automation&descAlignY=58&descSize=18&fontColor=ffffff" width="100%" alt="Header" />
 
+  <!-- 2. TYPING TERMINAL EFFECT -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1400&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+and+Automating+Cloud+Infrastructure;Azure+%7C+Azure+Stack+Hub+%7C+Huawei+Cloud+%7C+AWS;Infrastructure+as+Code+with+Terraform;Cloud+Operations+%7C+Networking+%7C+Automation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Automating+Infrastructure+with+Terraform;Architecting+Multi-Cloud+%26+Kubernetes;Hardening+CI%2FCD+Deployment+Pipelines;Building+Resilient%2C+High-Uptime+Networks" alt="Typing SVG" />
   </a>
 
-<br/><br/>
+  <br/><br/>
 
-  <a href="https://linkedin.com/in/markemadd">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <!-- 3. UNIFORM FLAT BADGES -->
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/markkemad">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://markkemad.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://markkemad.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
 </div>
 
 ---
 
-## ☁️ Cloud Infrastructure
+### ⚡ Infrastructure & Tooling Ecosystem
 
 <div align="center">
-
-  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,terraform,docker,kubernetes,linux,python,powershell,ansible,githubactions&perline=6&theme=dark" />
-
+  <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,terraform,ansible,jenkins,githubactions,linux,ubuntu,bash,python&perline=6&theme=dark" alt="Skill Icons" />
 </div>
 
 <br/>
 
-| Domain                     | Technologies                                                   |
-| :------------------------- | :------------------------------------------------------------- |
-| **Cloud Platforms**        | Microsoft Azure · Azure Stack Hub · Huawei Cloud · AWS · GCP   |
-| **Infrastructure as Code** | Terraform · Reusable Modules                                   |
-| **Automation**             | PowerShell · Python · Ansible                                  |
-| **Containers**             | Docker · Kubernetes                                            |
-| **Networking**             | VNet / VPC · VPN · NAT · Load Balancing · DNS · BGP            |
-| **Operations**             | Monitoring · Backup & DR · Troubleshooting · High Availability |
-| **Tooling**                | GitHub Actions · Veeam · SolarWinds Orion · WhatsUp Gold       |
+---
+
+### 🏗️ Systems & Architecture Focus
+
+| Domain | Focus & Toolchain | Engineering Standard |
+| :--- | :--- | :--- |
+| **Cloud & Virtualization** | AWS, GCP, Huawei Cloud, Docker, K8s | High Availability, Multi-AZ Isolation |
+| **IaC & Config Management** | Terraform, Ansible, GitOps | Immutable Infrastructure, Drift Detection |
+| **Delivery & Automation** | GitHub Actions, Jenkins, Bash, Python | Zero-Downtime Deploys, Security Scanning |
+| **Networking & Telemetry** | IPsec/VPN, BGP, Prometheus, Grafana | Low-Latency Routing, Proactive Alerting |
 
 ---
 
-## 🏗️ Engineering Focus
+### 📊 System Telemetry & Metrics
 
 <div align="center">
 
-**Cloud Infrastructure**
-Designing and operating reliable cloud environments across public, private, and hybrid infrastructure.
+  <!-- Main GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=markkemad&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
+  
+  <!-- Fixed Streak Stats Endpoint -->
+  <img src="https://streak-stats.demolab.com/?user=markkemad&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
 
-**Infrastructure as Code**
-Building reusable Terraform modules to make infrastructure deployment consistent and repeatable.
+  <br/>
 
-**Cloud Operations**
-Monitoring workloads, troubleshooting production issues, automating operational tasks, and improving reliability.
-
-**Networking & Connectivity**
-Working with VPC/VNet architectures, VPN connectivity, NAT, load balancing, routing, and secure workload segmentation.
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markkemad&layout=compact&theme=tokyonight&hide_border=true" height="140" alt="Top Languages" />
 
 </div>
 
 ---
-
-## 🚀 Currently Building
 
 <details>
-<summary><b>Infrastructure & Automation</b></summary>
-
-<br/>
-
-🔄 Reusable Terraform modules for cloud infrastructure
-
-🔄 Cloud networking and high-availability architecture labs
-
-🔄 PowerShell and Python automation for cloud operations
-
-🔄 Azure and Azure Stack Hub infrastructure labs
+  <summary><b>🛠️ Work In Progress: Active Projects & Research</b> (Click to expand)</summary>
+  <br/>
+  
+  * 🔄 **GitOps Kubernetes Cluster:** Multi-node automated cluster provisioning with ArgoCD and Helm.
+  * 🔄 **Multi-Cloud Disaster Recovery:** Cross-cloud failover pipeline testing and latency benchmarks.
+  * 🔄 **Automated Baseline Hardening:** Reusable Ansible roles for CIS benchmark compliance across Ubuntu and RHEL nodes.
 
 </details>
 
-<details>
-<summary><b>Expanding Toward Platform Engineering</b></summary>
-
-<br/>
-
-🔄 Kubernetes architecture and administration
-
-🔄 Containerized application deployment
-
-🔄 CI/CD automation
-
-🔄 Infrastructure automation and GitOps practices
-
-</details>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=markkemad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" height="165" alt="GitHub Stats" />
-
-  <img src="https://streak-stats.demolab.com?user=markkemad&theme=tokyonight&hide_border=true&background=00000000" height="165" alt="GitHub Streak" />
-
-</div>
-
 <br/>
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markkemad&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="140" alt="Top Languages" />
-
-</div>
-
----
-
-## 📜 Certifications
-
-`Google Associate Cloud Engineer`
-
-`Huawei HCIA Cloud Computing V5.5`
-
-`Huawei HCIP Cloud Service Solutions Architect`
-
----
-
-## 💼 Experience
-
-**Cloud Operations Engineer — Link Datacenter**
-
-Working in a multi-cloud environment supporting **Microsoft, AWS, and Huawei cloud ecosystems**, with a focus on infrastructure operations, customer environments, automation, monitoring, and cloud solutions.
-
-**Cloud Delivery & Operations — Huawei**
-
-Hands-on experience delivering and operating Huawei Cloud environments, infrastructure automation, customer workloads, networking, backup/DR, and cloud migration solutions.
-
----
-
-<div align="center">
-
-### Building toward Senior Cloud Infrastructure Engineering
-
-`Azure` · `Azure Stack Hub` · `Huawei Cloud` · `AWS` · `Terraform` · `Automation` · `Networking`
-
-<br/>
-
-<sub>Infrastructure • Reliability • Automation • Continuous Learning</sub>
-
+  <sub>Configured & Deployed via Markdown • Hosted on GitHub</sub>
 </div>
