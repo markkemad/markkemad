@@ -35,6 +35,8 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=azure,aws,gcp,kubernetes,docker,terraform,ansible,jenkins,githubactions,linux,bash,python&perline=6&theme=dark" alt="Skill Icons" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Huawei%20Cloud-C7000B?style=for-the-badge&logo=huawei&logoColor=white" alt="Huawei Cloud" />
 </div>
 
 <br/>
@@ -55,7 +57,7 @@
 ### <img src="https://api.iconify.design/lucide:trending-up.svg?color=%2338bdf8" width="20" height="20" align="top" /> Contribution Telemetry
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=markkemad&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph" />
+  <img src="https://ghchart.rshah.org/38bdf8/markkemad" width="95%" alt="Activity Graph" />
 </div>
 
 ---
